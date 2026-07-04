@@ -68,55 +68,71 @@ Upload raw property footage, AI automatically edits the video, generates caption
 
 ## 📸 Product Screenshots
 
-### 🏠 Homepage
+### 🏠 Landing Page
 
-Modern landing page introducing the 8-feature suite with clear value propositions.
+Modern landing page introducing the platform and its 8 core features.
 
-![Homepage](screenshots/01-homepage.png)
+![Landing Page](screenshots/01-landing.png)
 
-### 🎬 Video Generator
+### 🎬 Video Generator — Property Transformation
 
-Property transformation video creation interface.
+Upload one property photo, AI generates a cinematic before/after transition video.
 
 ![Video Generator](screenshots/02-video-generator.png)
 
-### 🏠 House Tour AI
+### 🏠 House Tour AI — Virtual Property Walkthrough
 
-Virtual property walkthrough builder with AI host.
+Generate complete property tour videos with AI-generated virtual host presenter.
 
 ![House Tour AI](screenshots/03-house-tour.png)
 
-### 👤 Host Image AI
+### 👤 Host Image AI — Professional Agent Portraits
 
-Agent portrait generation studio.
+Generate professional-grade profile images for real estate agents.
 
 ![Host Image AI](screenshots/04-host-image.png)
 
-### 🔍 Link Analysis
+### 🔍 Link Analysis — Competitor Content Intelligence
 
-Competitor content intelligence dashboard.
+Paste competitor social media URL, AI analyzes content strategy and hooks.
 
 ![Link Analysis](screenshots/05-link-analysis.png)
 
-### 📱 Meta Ads AI
+### ⚡ Free Video Generator — Quick Content Creation
 
-Automated ad campaign management with OAuth integration.
+Fast text-to-video generation optimized for TikTok/Instagram Reels.
 
-![Meta Ads AI](screenshots/06-meta-ads.png)
+![Free Video Generator](screenshots/06-free-video.png)
 
-### 📊 Industry Pulse
+### 📱 Meta Ads AI — Automated Ad Campaign Manager
 
-Real-time market intelligence with bilingual content briefs.
+End-to-end Meta ad campaign management via OAuth integration.
 
-![Industry Pulse](screenshots/07-industry-pulse.png)
+![Meta Ads AI](screenshots/07-meta-ads.png)
 
-### 💎 Pricing
+### 📊 Industry Pulse — Real-Time Market Intelligence
 
-Tier-based subscription plans for professional users.
+AI-powered industry news aggregator with bilingual (EN/CN) content briefs.
 
-![Pricing](screenshots/08-pricing.png)
+![Industry Pulse](screenshots/08-industry-pulse.png)
 
----
+### ✂️ Smart Edit — AI Video Editor
+
+Automated video editing with captions, subtitles, and background music.
+
+![Smart Edit](screenshots/09-smart-edit.png)
+
+### 📼 User History — Real Usage Records
+
+Live user history showing generated content across all features.
+
+![History](screenshots/10-history.png)
+
+### 💎 Buy Credits — Pricing Plans
+
+Tier-based subscription with Standard (RM1,500) and Premium (RM4,000) plans.
+
+![Buy Credits](screenshots/11-buy-credits.png)
 
 ## 🏗️ Tech Stack (High-Level)
 

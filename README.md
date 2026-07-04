@@ -4,7 +4,7 @@
 > Solo-built · Production SaaS · 8 core AI features · Multi-language (EN/CN)
 > Kuala Lumpur 🇲🇾
 
-![Homepage](screenshots/01-homepage.png)
+![Homepage](screenshots/01-landing.png)
 
 ---
 

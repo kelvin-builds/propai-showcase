@@ -125,7 +125,7 @@ Tier-based subscription plans for professional users.
 | **Backend** | Python · Flask · SQLite |
 | **Payments** | Integrated payment gateway (RM/MYR support) |
 | **Auth** | OAuth 2.0 (Google · Meta Business) |
-| **AI Integrations** | Multiple production-grade AI providers (LLM, image gen, voice, video gen) — specifics proprietary |
+| **AI Integrations** | Multiple proprietary integrations — specifics undisclosed |
 | **Infrastructure** | Ubuntu VPS · Nginx (reverse proxy + SSL) · Let's Encrypt · systemd · Cron |
 | **Frontend** | Modern JavaScript · Server-rendered HTML · Mobile-first |
 | **Localization** | Bilingual support (English / Chinese) |
